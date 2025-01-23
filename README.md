@@ -7,11 +7,6 @@ This dashboard is developed using the following technologies:
 4. NodeJS and NPM
 5. HTML5
 6. CSS3
+7. JavaScript
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
+Demo - https://glance-care-dashboard.firebaseapp.com/
