@@ -12,9 +12,9 @@ This dashboard is developed using the following technologies:
 
 Todo's to run the application locally.
 
-Install NodeJS (v18.20.5) or any latest version
+ - Install NodeJS (v18.20.5) or any latest version
 
-Navigate to glance-care-dashboard 
+ - Navigate to glance-care-dashboard 
 
  - To install - npm install
 
