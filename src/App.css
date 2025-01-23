@@ -1,0 +1,28 @@
+body {
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+}
+
+.icon-small {
+  font-size: 16px;
+  /* Adjust the size as needed */
+}
+
+.is-best-picture {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  background-color: #FFBB28;
+  color: white;
+  padding: 5px 15px;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.square-bullet {
+  width: 15px;
+  height: 8px;
+}
