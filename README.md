@@ -12,15 +12,24 @@ This dashboard is developed using the following technologies:
 
 Todo's to run the application locally.
 
-1. Install NodeJS (v18.20.5) or any latest version
-2. Navigate to glance-care-dashboard 
-3. To install npm modules 
+Install NodeJS (v18.20.5) or any latest version
+
+Navigate to glance-care-dashboard 
+
+To install npm modules 
+
 # npm install 
-4. To run application 
+
+To run application 
+
 # npm run dev
-5. To run tests 
+
+To run tests 
+
 # npm test
-6. To build 
+
+To build 
+
 # npm run build 
 
 Demo - https://glance-care-dashboard.firebaseapp.com/
