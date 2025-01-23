@@ -16,20 +16,12 @@ Install NodeJS (v18.20.5) or any latest version
 
 Navigate to glance-care-dashboard 
 
-To install npm modules 
+# To install - npm install
 
-# npm install 
+# To run application - npm run dev
 
-To run application 
+# To run tests - npm test
 
-# npm run dev
-
-To run tests 
-
-# npm test
-
-To build 
-
-# npm run build 
+# To build - npm run build 
 
 Demo - https://glance-care-dashboard.firebaseapp.com/
