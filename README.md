@@ -12,6 +12,8 @@ This dashboard is developed using the following technologies:
 
 - Application View [ Demo - https://glance-care-dashboard.firebaseapp.com/ ]
 
+- Application Documentaiton - https://github.com/samiullahfx/glance-care-dashboard/blob/main/src/documentation/documentation.pdf
+
 ![Image Description](https://github.com/samiullahfx/glance-care-dashboard/blob/main/src/assets/movie-insigths.dashboard.png)
 
 Todo's to run the application locally.
