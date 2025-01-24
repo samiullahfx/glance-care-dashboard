@@ -10,6 +10,8 @@ This dashboard is developed using the following technologies:
 6. CSS3
 7. JavaScript
 
+- Application View
+
 ![Image Description](https://github.com/samiullahfx/glance-care-dashboard/blob/main/src/assets/movie-insigths.dashboard.png)
 
 Todo's to run the application locally.
