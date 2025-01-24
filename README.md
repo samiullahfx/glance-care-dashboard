@@ -10,6 +10,8 @@ This dashboard is developed using the following technologies:
 6. CSS3
 7. JavaScript
 
+![Image Description](./src/assets/movie-insigths.dashboard.png)
+
 Todo's to run the application locally.
 
  - Install NodeJS (v18.20.5) or any latest version
